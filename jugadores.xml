@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="herenciaspractica.Lista_jugadores" id="Lista_jugadores0">
+  <void property="lista_jugadores">
+   <void method="add">
+    <object class="herenciaspractica.Jugador">
+     <void property="cartas">
+      <object class="herenciaspractica.Lista_cartas" id="Lista_cartas0">
+       <void property="lista_cartas">
+        <void method="add">
+         <null/>
+        </void>
+        <void method="add">
+         <object class="herenciaspractica.CartaTropa">
+          <void property="ataque">
+           <int>3</int>
+          </void>
+          <void property="elixir">
+           <int>5</int>
+          </void>
+          <void property="nombre">
+           <string>Mago</string>
+          </void>
+          <void property="vida">
+           <int>4</int>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+     <void property="nombre">
+      <string>alex</string>
+     </void>
+     <void property="trofeos">
+      <int>0</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

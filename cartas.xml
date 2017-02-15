@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="herenciaspractica.Lista_cartas" id="Lista_cartas0">
+  <void property="lista_cartas">
+   <void method="add">
+    <object class="herenciaspractica.CartaTropa">
+     <void property="ataque">
+      <int>3</int>
+     </void>
+     <void property="elixir">
+      <int>5</int>
+     </void>
+     <void property="nombre">
+      <string>Mago</string>
+     </void>
+     <void property="vida">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="herenciaspractica.CartaTropa">
+     <void property="ataque">
+      <int>2</int>
+     </void>
+     <void property="elixir">
+      <int>6</int>
+     </void>
+     <void property="nombre">
+      <string>Rey</string>
+     </void>
+     <void property="vida">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="herenciaspractica.CartaTropa">
+     <void property="ataque">
+      <int>7</int>
+     </void>
+     <void property="elixir">
+      <int>7</int>
+     </void>
+     <void property="nombre">
+      <string>Dragón</string>
+     </void>
+     <void property="vida">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="herenciaspractica.CartaEstr">
+     <void property="defensa">
+      <int>4</int>
+     </void>
+     <void property="elixir">
+      <int>6</int>
+     </void>
+     <void property="nombre">
+      <string>Bombardero</string>
+     </void>
+     <void property="vida">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="herenciaspractica.CartaEstr">
+     <void property="defensa">
+      <int>4</int>
+     </void>
+     <void property="elixir">
+      <int>4</int>
+     </void>
+     <void property="nombre">
+      <string>Ballesta</string>
+     </void>
+     <void property="vida">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="herenciaspractica.CartaEstr">
+     <void property="defensa">
+      <int>5</int>
+     </void>
+     <void property="elixir">
+      <int>4</int>
+     </void>
+     <void property="nombre">
+      <string>Vígia</string>
+     </void>
+     <void property="vida">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="herenciaspractica.CartaHechizo">
+     <void property="alcance">
+      <int>4</int>
+     </void>
+     <void property="elixir">
+      <int>5</int>
+     </void>
+     <void property="nombre">
+      <string>Rayo</string>
+     </void>
+     <void property="vida">
+      <int>0</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="herenciaspractica.CartaHechizo">
+     <void property="alcance">
+      <int>5</int>
+     </void>
+     <void property="elixir">
+      <int>5</int>
+     </void>
+     <void property="modo">
+      <boolean>true</boolean>
+     </void>
+     <void property="nombre">
+      <string>Curación</string>
+     </void>
+     <void property="vida">
+      <int>0</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="herenciaspractica.CartaHechizo">
+     <void property="alcance">
+      <int>4</int>
+     </void>
+     <void property="elixir">
+      <int>6</int>
+     </void>
+     <void property="nombre">
+      <string>Veneno</string>
+     </void>
+     <void property="vida">
+      <int>0</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
